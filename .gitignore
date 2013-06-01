@@ -1,0 +1,9 @@
+.project
+.pydevproject
+*.py[co]
+__pycache__
+*~
+MANIFEST
+dist/
+build/
+
