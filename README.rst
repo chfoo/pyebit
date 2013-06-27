@@ -15,6 +15,8 @@ PyEBit is an example of how not to write Python code or programs in general.
 
 
 .. image:: https://travis-ci.org/chfoo/pyebit.png
+    :target: https://travis-ci.org/chfoo/pyebit
+    :alt: Travis build status
 
 
 Getting Started
